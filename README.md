@@ -3,8 +3,8 @@
 - 🌱 Eu estou aprendendo japones
 - 💞️ Meu anime favorito é bleach e monster
 - 📫 Minha materia favorita é geografia
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Adoro o Leon kannedy
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fatos: Adoro o Leon Kannedy
 
 <!---
 Thiciane-Maker/Thiciane-Maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
