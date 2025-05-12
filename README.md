@@ -4,7 +4,7 @@
 - 💞️ Meu anime favorito é bleach e monster
 - 📫 Minha materia favorita é geografia
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fatos: Adoro o Leon Kannedy
+- ⚡ Fatos: Adoro o Leon Kennedy
 
 <!---
 Thiciane-Maker/Thiciane-Maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
