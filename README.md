@@ -1,10 +1,13 @@
-- 👋 Ola, eu sou a @Thiciane-Maker
-- 👀 Eu tenho interesse na cultura japonesa 
-- 🌱 Eu estou aprendendo japones
-- 💞️ Meu anime favorito é bleach e monster
-- 📫 Minha materia favorita é geografia
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fatos: Adoro o Leon Kennedy
+✦ Thiciane ♡  
+
+K-pop multi stan ✧  
+Theo • Jay • Soobin • Yunho  
+
+doramas lover ↠  
+Weak Hero Class • Vigilante  
+The Good Bad Mother • The Judge from Hell  
+
+ela/dela ✦
 
 <!---
 Thiciane-Maker/Thiciane-Maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
