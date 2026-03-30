@@ -1,11 +1,11 @@
-✦ Thiciane ♡  
+✦ Thiciane ♡
 
-K-pop multi stan ✧  
-Theo • Jay • Soobin • Yunho  
+K-pop multi stan ✧
+&TEAM • TWS • BOYNEXTDOOR • RIIZE
 
-doramas lover ↠  
-Weak Hero Class • Vigilante  
-The Good Bad Mother • The Judge from Hell  
+doramas lover ↠
+Weak Hero Class • Vigilante
+The Good Bad Mother • The Judge from Hell
 
 ela/dela ✦
 
