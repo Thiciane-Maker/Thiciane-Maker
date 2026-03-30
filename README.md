@@ -1,15 +1,15 @@
-✦ Thiciane ♡
+✦・┈┈・♡・┈┈・✦
+Thiciane ♡
 
-K-pop multi stan ✧
-&TEAM • TWS • BOYNEXTDOOR • RIIZE
+꒰ 🎧 ꒱ K-pop multi stan
+&TEAM ⟡ TWS ⟡ BOYNEXTDOOR ⟡ RIIZE
 
-doramas lover ↠
-Weak Hero Class • Vigilante
-The Good Bad Mother • The Judge from Hell
+꒰ 🎬 ꒱ doramas lover ↠
+Weak Hero Class ⟡ Vigilante
+The Good Bad Mother ⟡ The Judge from Hell
 
-ela/dela ✦
+꒰ 🌙 ꒱ vibes
+music • doramas • k-pop
 
-<!---
-Thiciane-Maker/Thiciane-Maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ela/dela ⟡
+✦・┈┈・♡・┈┈・✦
