@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="300" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/SEU_ID_DO_GITHUB?v=4" width="100" style="border-radius: 50%;">
+      <img src="https://i.pinimg.com/736x/dc/7d/cb/dc7dcbfecf480b8af7da4c5ae3e258bb.jpg" width="100" style="border-radius: 50%;">
       <h3>🌸 Thiciane ♡</h3>
       <p><i>Dev em Sistemas @ SENAI | Multi Stan | ela/dela</i></p>
     </td>
@@ -59,17 +59,17 @@
 <table>
   <tr>
     <td align="center">
-      <a href="LINK_MYDRAMALIST_WEAK_HERO"><img src="https://i.mydramalist.com/WEAKHERO_POSTER.jpg" width="150" style="border-radius: 8px;"><br>
+      <a href="LINK_MYDRAMALIST_WEAK_HERO"><img src="https://i.pinimg.com/736x/20/5e/f6/205ef6064319663e7e9d920f84c71652.jpg" width="150" style="border-radius: 8px;"><br>
       <b>Weak Hero Class</b><br>
       ⭐⭐⭐⭐⭐</a>
     </td>
     <td align="center">
-      <a href="LINK_MYDRAMALIST_VIGILANTE"><img src="https://i.mydramalist.com/VIGILANTE_POSTER.jpg" width="150" style="border-radius: 8px;"><br>
+      <a href="LINK_MYDRAMALIST_VIGILANTE"><img src="https://i.pinimg.com/736x/9e/3d/ab/9e3dabe7edc49ca09371f9f974702a67.jpg" width="150" style="border-radius: 8px;"><br>
       <b>Vigilante</b><br>
       ⭐⭐⭐⭐⭐</a>
     </td>
     <td align="center">
-      <a href="LINK_MYDRAMALIST_CAES_DE_CACA"><img src="https://i.mydramalist.com/CAESDECACA_POSTER.jpg" width="150" style="border-radius: 8px;"><br>
+      <a href="LINK_MYDRAMALIST_CAES_DE_CACA"><img src="https://i.pinimg.com/736x/d6/3f/48/d63f48aabbc7dc28b79d34073bb91b5b.jpg" width="150" style="border-radius: 8px;"><br>
       <b>Cães de Caça</b><br>
       ⭐⭐⭐⭐⭐</a>
     </td>
