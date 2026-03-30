@@ -1,15 +1,15 @@
-✦・┈┈・♡・┈┈・✦
-Thiciane ♡
+✦・┈┈・♡・┈┈・✦ <br>
+Thiciane ♡ <br><br>
 
-꒰ 🎧 ꒱ K-pop multi stan
-&TEAM ⟡ TWS ⟡ BOYNEXTDOOR ⟡ RIIZE
+꒰ 🎧 ꒱ K-pop multi stan <br>
+&TEAM ⟡ TWS ⟡ BOYNEXTDOOR ⟡ RIIZE <br><br>
 
-꒰ 🎬 ꒱ doramas lover ↠
-Weak Hero Class ⟡ Vigilante
-The Good Bad Mother ⟡ The Judge from Hell
+꒰ 🎬 ꒱ doramas lover ↠ <br>
+Weak Hero Class ⟡ Vigilante <br>
+The Good Bad Mother ⟡ The Judge from Hell <br><br>
 
-꒰ 🌙 ꒱ vibes
-music • doramas • k-pop
+꒰ 🌙 ꒱ vibes <br>
+music • doramas • k-pop <br><br>
 
-ela/dela ⟡
+ela/dela ⟡ <br>
 ✦・┈┈・♡・┈┈・✦
