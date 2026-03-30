@@ -12,7 +12,8 @@
 
   ### 🌸 Sobre Mim
   Olá, meu nome é **Thiciane** e tenho 17 anos! ✨ <br>
-  Sou aluna do **SESI-025** e atualmente estou cursando **Desenvolvimento de sistemas** no **SENAI**. <br>
+  Sou aluna do **SESI-025** e atualmente estou cursando **Desenvolvimento de Sistemas** no **SENAI**. <br>
+  Adoro misturar o mundo dos códigos com a minha paixão por música e boas histórias! 💻💗
 
   <br>
 
@@ -36,14 +37,19 @@
 
   <br>
 
+  ### 💻 Skills & Tecnologias
+  `HTML5` • `CSS3` • `JavaScript` • `Lógica de Programação` • `Git`
+  
+  <br>
+
   ### 📌 Status Atual
   - 🎶 **Na minha playlist:** *Run Wild - &TEAM*
   - 📺 **Assistindo no momento:** *Yaiteru Futari*
-  - 💻 **Focando em:** *Internet das Coisas, Programação e Lógica*
+  - 🚀 **Focando em:** *Aprender novas linguagens de programação no SENAI*
 
   <br>
 
   ### ꒰ 🌙 ꒱ Vibes & Interesses
-  `music` • `doramas` • `k-pop` • `iot` • `tech`
+  `music` • `doramas` • `k-pop` • `coding` • `tech` • `aesthetics`
 
 </div>
