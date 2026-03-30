@@ -1,12 +1,12 @@
 <div align="center">
 
   <p align="center">
-    <img src="LINK_DA_IMAGEM" width="400" style="border-radius: 15px;"/>
+    <img src="https://i.pinimg.com/736x/b6/1e/6d/b61e6d2d1d3577607c2ba263eba71efc.jpg" width="400" style="border-radius: 15px;"/>
   </p>
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Oie,+eu+sou+a+Thiciane+♡;K-pop+multi+stan+🎧;Doramas+lover+🎬;ela%2Fdela+✨" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/1200x/b5/aa/d3/b5aad3f7c64dfd69bcbfb9a0f3c09a9c.jpg font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Oie,+eu+sou+a+Thiciane+♡;K-pop+multi+stan+🎧;Doramas+lover+🎬;ela%2Fdela+✨" alt="Typing SVG" />
 
   <br><br>
 
