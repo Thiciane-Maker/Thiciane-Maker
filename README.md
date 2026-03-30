@@ -1,6 +1,19 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/1200x/b5/aa/d3/b5aad3f7c64dfd69bcbfb9a0f3c09a9c.jpg" width="380" alt="Profile aesthetic image"/>
+  <img src="https://i.pinimg.com/1200x/b5/aa/d3/b5aad3f7c64dfd69bcbfb9a0f3c09a9c.jpg" width="320" alt="Profile aesthetic image"/>
+
+  <br><br>
+
+  <h1>🌸 Thiciane ♡</h1>
+
+  <p>
+    <strong>Estudante de Desenvolvimento de Sistemas</strong><br>
+    SESI-025 • SENAI • ela/dela
+  </p>
+
+  <img src="https://img.shields.io/badge/status-online-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/idade-17%20anos-FFC0CB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/front--end%20lover-F8BBD0?style=for-the-badge"/>
 
   <br><br>
 
@@ -8,19 +21,10 @@
 
   <br><br>
 
-  <h1>🌸 Thiciane ♡</h1>
-  
-  <p>
-    <strong>Estudante de Desenvolvimento de Sistemas @ SENAI</strong><br>
-    Multi Stan • ela/dela
-  </p>
-
-  <img src="https://img.shields.io/badge/status-online-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/idade-17%20anos-FFC0CB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/school-SESI--025-F8BBD0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/course-Desenvolvimento%20de%20Sistemas-003366?style=for-the-badge"/>
+  <em>✨ welcome to my profile ✨</em>
 
 </div>
+
 
 <br>
 
@@ -49,12 +53,46 @@
 
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/3d/df/85/3ddf8547133eb6f1417f97d89819b112.jpg" width="105" alt="&TEAM"/>
-  <img src="https://i.pinimg.com/736x/a9/07/63/a907638ee240e87942c9bb5145ea0818.jpg" width="105" alt="TWS"/>
-  <img src="https://i.pinimg.com/736x/18/71/1b/18711b4e825ad84b6604c3edc0d59363.jpg" width="105" alt="BOYNEXTDOOR"/>
-  <img src="https://i.pinimg.com/1200x/dc/05/bd/dc05bded5716773cb019be33b835964c.jpg" width="105" alt="RIIZE"/>
+  <img src="https://img.shields.io/badge/K--Pop%20Lover-FFB6C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi%20Stan-FFC0CB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Daily%20Vibes-F8BBD0?style=for-the-badge"/>
 
   <br><br>
+
+  <em>music, visuals, performances and all the good vibes ✨</em>
+
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://i.pinimg.com/736x/3d/df/85/3ddf8547133eb6f1417f97d89819b112.jpg" width="120" alt="&TEAM"/><br><br>
+      <strong>&TEAM</strong><br>
+      <sub>soft energy • favorite vibes</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://i.pinimg.com/736x/a9/07/63/a907638ee240e87942c9bb5145ea0818.jpg" width="120" alt="TWS"/><br><br>
+      <strong>TWS</strong><br>
+      <sub>fresh • bright • comforting</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://i.pinimg.com/736x/18/71/1b/18711b4e825ad84b6604c3edc0d59363.jpg" width="120" alt="BOYNEXTDOOR"/><br><br>
+      <strong>BOYNEXTDOOR</strong><br>
+      <sub>fun • youthful • addictive</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://i.pinimg.com/1200x/dc/05/bd/dc05bded5716773cb019be33b835964c.jpg" width="120" alt="RIIZE"/><br><br>
+      <strong>RIIZE</strong><br>
+      <sub>cool • stylish • iconic</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
 
   <code>&TEAM</code>
   <code>TWS</code>
@@ -65,78 +103,8 @@
 
 <br>
 
----
-
-## 🎬 My Dorama Journal
-
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Dorama%20Lover-FFB6C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K--Drama%20Vibes-FFC0CB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Just%20one%20more%20episode...-F8BBD0?style=for-the-badge"/>
-
-  <br><br>
-
-  <em>“Só mais um episódio...” — eu 🌙🍿</em>
-
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/📺%20Maratonando-The%20Judge%20from%20Hell-FFB6C1?style=for-the-badge"/>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/💖%20Comfort%20Drama-The%20Good%20Bad%20Mother-DDA0DD?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <strong>Meus favoritos do momento ✨</strong>
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="LINK_MYDRAMALIST_WEAK_HERO">
-        <img src="https://i.pinimg.com/736x/20/5e/f6/205ef6064319663e7e9d920f84c71652.jpg" width="150" alt="Weak Hero Class 1"/><br><br>
-        <strong>Weak Hero Class 1</strong><br>
-        <sub>Ação • Escolar</sub><br>
-        ⭐⭐⭐⭐⭐
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="LINK_MYDRAMALIST_VIGILANTE">
-        <img src="https://i.pinimg.com/736x/9e/3d/ab/9e3dabe7edc49ca09371f9f974702a67.jpg" width="150" alt="Vigilante"/><br><br>
-        <strong>Vigilante</strong><br>
-        <sub>Thriller • Crime</sub><br>
-        ⭐⭐⭐⭐⭐
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="LINK_MYDRAMALIST_CAES_DE_CACA">
-        <img src="https://i.pinimg.com/736x/d6/3f/48/d63f48aabbc7dc28b79d34073bb91b5b.jpg" width="150" alt="Cães de Caça"/><br><br>
-        <strong>Cães de Caça</strong><br>
-        <sub>Ação • Bromance</sub><br>
-        ⭐⭐⭐⭐⭐
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`k-drama` • `thriller` • `action` • `comfort drama` • `late night episodes`
-
+  <strong>ult vibes ✦ performance ✦ vocals ✦ visuals ✦ comfort songs</strong>
 </div>
 
 <br>
@@ -184,8 +152,7 @@
 
 ## 📌 Status atual
 
-- 🎶 **Na minha playlist:** *Run Wild - &TEAM*
-- 📺 **Assistindo no momento:** *Yaiteru Futari*
+- 🎶 **Escutando bastante:** *Run Wild - &TEAM*
 - 💻 **Praticando:** *HTML, CSS e JavaScript*
 - 🚀 **Focando em:** *Evoluir cada vez mais no desenvolvimento front-end*
 
@@ -197,7 +164,7 @@
 
 <div align="center">
 
-`music` • `doramas` • `k-pop` • `coding` • `front-end` • `aesthetics`
+`music` • `k-pop` • `coding` • `front-end` • `tech` • `aesthetics`
 
 </div>
 
