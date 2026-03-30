@@ -1,12 +1,14 @@
 <div align="center">
 
   <!-- TOPO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=✧%20welcome%20to%20my%20space%20✧&fontColor=ffffff&fontSize=32&animation=twinkling"/>
+
+  <br><br>
 
   <!-- FOTO -->
   <img src="https://i.pinimg.com/736x/dc/7d/cb/dc7dcbfecf480b8af7da4c5ae3e258bb.jpg"
-       width="140"
-       style="border-radius: 50%; border: 3px solid #FFB6C1;" />
+       width="160"
+       style="border-radius: 50%; border: 4px solid #FFB6C1; box-shadow: 0 0 18px #ffc0cb;" />
 
   <h1>🌸 Thiciane ♡</h1>
 
@@ -18,35 +20,55 @@
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/status-online-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/focus-Front--End-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/vibe-aesthetic-FFC0CB?style=for-the-badge"/>
 
   <br><br>
 
+  <!-- INTRO -->
   <p>
-    ✨ 17 anos<br>
-    💻 SESI-025 + SENAI<br>
-    🌷 Aprendendo e evoluindo todos os dias
+    ✨ 17 anos • 💻 SESI-025 + SENAI <br>
+    🌷 criando, aprendendo e evoluindo todos os dias
   </p>
 
-  <br>
+  <!-- EMAIL -->
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/email-contato-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-  <!-- LINHA -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2"/>
+  <br><br>
+
+  <!-- DIVISOR -->
+  <p>✦ ──── ✿ ──── ✦</p>
 
   <!-- SKILLS -->
   <h3>💻 Tech Stack</h3>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <sub>tecnologias que estou usando e evoluindo</sub>
 
   <br><br>
 
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github" />
+
+  <br><br>
+
+  <!-- DIVISOR -->
+  <p>✦ ──── ✿ ──── ✦</p>
+
   <!-- KPOP -->
-  <h3>🎧 K-pop</h3>
+  <h3>🎧 K-pop & Vibes 🌙</h3>
 
   <p>
-    <code>&TEAM</code> ⟡ 
-    <code>TWS</code> ⟡ 
-    <code>BOYNEXTDOOR</code> ⟡ 
-    <code>RIIZE</code>
+    <img src="https://img.shields.io/badge/&TEAM-FFB6C1?style=flat-square&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TWS-FF69B4?style=flat-square&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BOYNEXTDOOR-FFC0CB?style=flat-square&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RIIZE-FF1493?style=flat-square&logo=spotify&logoColor=white"/>
+  </p>
+
+  <p>
+    <code>front-end</code> ⟡ 
+    <code>k-pop</code> ⟡ 
+    <code>doramas</code> ⟡ 
+    <code>aesthetic</code>
   </p>
 
   <br>
@@ -54,54 +76,36 @@
   <!-- PLAYLIST -->
   <a href="LINK_DA_PLAYLIST_SPOTIFY">
     <img src="https://i.pinimg.com/736x/05/63/70/05637025ffb9cae5dab35179d9118e4c.jpg"
-         width="360"
-         style="border-radius: 12px;">
+         width="320"
+         style="border-radius: 14px; box-shadow: 0 0 12px #ffc0cb;" />
     <br>
-    <sub>🎶 minha playlist</sub>
+    <sub>🎶 minha playlist no repeat</sub>
   </a>
 
   <br><br>
 
-  <!-- LINHA -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2"/>
+  <!-- DIVISOR -->
+  <p>✦ ──── ✿ ──── ✦</p>
 
   <!-- PROJETO -->
-  <h3>🚀 Projeto</h3>
+  <h3>🚀 Projeto em Destaque</h3>
 
   <b>IOT Weather Station</b>
 
   <br><br>
 
-  <img src="https://i.pinimg.com/736x/d7/ad/1e/d7ad1ee8821ecf37904e684865d48087.jpg"
-       width="120"
-       style="border-radius: 10px;" />
+  <img src="https://i.ibb.co/ZmpK8r1/IOT-Weather-Station-Cute-Infographic.png"
+       width="520"
+       style="border-radius: 16px; box-shadow: 0 0 15px #ffb6c1;" />
 
   <br><br>
 
-  <!-- STATUS -->
-  <h3>📌 Now</h3>
-
-  🎶 Run Wild <br>
-  📺 Yaiteru Futari <br>
-  💻 Praticando codigos  
+  <!-- FRASE FINAL -->
+  <sub>✨ made with love & pink vibes ✨</sub>
 
   <br><br>
 
-  <!-- VIBES -->
-  <h3>🌙 Vibes</h3>
-
-  <code>front-end</code> • 
-  <code>k-pop</code> • 
-  <code>doramas</code> • 
-  <code>aesthetic</code>
-
-  <br><br>
-
-  <sub>made with 💗</sub>
-
-  <br><br>
-
-  <!-- FINAL -->
+  <!-- RODAPÉ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 
 </div>
