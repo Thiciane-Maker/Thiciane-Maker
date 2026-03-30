@@ -11,8 +11,8 @@
   <br><br>
 
   ### 🌸 Sobre Mim
-  Sou apaixonada por explorar novos mundos através de doramas e pela energia do K-pop. <br>
-  Sempre em busca de uma boa música, uma história envolvente e aprendendo coisas novas todos os dias!
+  Olá, meu nome é **Thiciane** e tenho 17 anos! ✨ <br>
+  Sou aluna do **SESI-025** e atualmente estou cursando **Desenvolvimento de sistemas** no **SENAI**. <br>
 
   <br>
 
@@ -30,20 +30,20 @@
   <br>
 
   ### ꒰ 🎬 ꒱ Doramas Lover ↠
-  > **Favoritos da Vida:** Weak Hero Class ⟡ Vigilante <br>
+  > **Favoritos da Vida:** Weak Hero Class ⟡ Vigilante ⟡ Cães de Caça <br>
   > **Aquece o coração:** The Good Bad Mother <br>
   > **Maratonando:** The Judge from Hell
 
   <br>
 
   ### 📌 Status Atual
-  - 🎶 **Na minha playlist:** *[Nome da música e do grupo]*
-  - 📺 **Assistindo no momento:** *[Nome do dorama]*
-  - 💻 **Focando em:** *[Design, Programação, Idiomas, etc.]*
+  - 🎶 **Na minha playlist:** *Run Wild - &TEAM*
+  - 📺 **Assistindo no momento:** *Yaiteru Futari*
+  - 💻 **Focando em:** *Internet das Coisas, Programação e Lógica*
 
   <br>
 
   ### ꒰ 🌙 ꒱ Vibes & Interesses
-  `music` • `doramas` • `k-pop` • `aesthetics` • `tech`
+  `music` • `doramas` • `k-pop` • `iot` • `tech`
 
 </div>
