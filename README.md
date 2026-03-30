@@ -6,7 +6,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Oie,+eu+sou+a+Thiciane+♡;K-pop+multi+stan+🎧;Doramas+lover+🎬;ela%2Fdela+✨" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/736x/da/c8/43/dac8433656ac1d8cdf12990ffb4f1a64.jpg" alt="Typing SVG" />
 
   <br><br>
 
