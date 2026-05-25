@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/1200x/b5/aa/d3/b5aad3f7c64dfd69bcbfb9a0f3c09a9c.jpg" width="320" alt="Profile aesthetic image"/>
+  <img src="https://i.pinimg.com/736x/5c/dc/b4/5cdcb42d54c21c58d31acf56a72629b6.jpg" width="320" alt="Profile aesthetic image"/>
 
   <br><br>
 
@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td width="160" align="center">
-      <img src="https://i.pinimg.com/736x/dc/7d/cb/dc7dcbfecf480b8af7da4c5ae3e258bb.jpg" width="120" alt="Foto aesthetic"/>
+      <img src="https://i.pinimg.com/736x/be/ba/94/beba94fb8372b49d725636bd7488652e.jpg" width="120" alt="Foto aesthetic"/>
     </td>
     <td width="520" valign="middle">
       Oii! Meu nome é <strong>Thiciane</strong> e tenho <strong>17 anos</strong> 💗<br><br>
@@ -68,24 +68,9 @@
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <img src="https://i.pinimg.com/736x/3d/df/85/3ddf8547133eb6f1417f97d89819b112.jpg" width="120" alt="&TEAM"/><br><br>
-      <strong>&TEAM</strong><br>
+      <img src="https://i.pinimg.com/736x/3d/df/85/3ddf8547133eb6f1417f97d89819b112.jpg" width="120" alt="SEVEENTEEN"/><br><br>
+      <strong>SEVENTEEN</strong><br>
       <sub>soft energy • favorite vibes</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://i.pinimg.com/736x/a9/07/63/a907638ee240e87942c9bb5145ea0818.jpg" width="120" alt="TWS"/><br><br>
-      <strong>TWS</strong><br>
-      <sub>fresh • bright • comforting</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://i.pinimg.com/736x/18/71/1b/18711b4e825ad84b6604c3edc0d59363.jpg" width="120" alt="BOYNEXTDOOR"/><br><br>
-      <strong>BOYNEXTDOOR</strong><br>
-      <sub>fun • youthful • addictive</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://i.pinimg.com/1200x/dc/05/bd/dc05bded5716773cb019be33b835964c.jpg" width="120" alt="RIIZE"/><br><br>
-      <strong>RIIZE</strong><br>
-      <sub>cool • stylish • iconic</sub>
     </td>
   </tr>
 </table>
@@ -94,10 +79,8 @@
 
 <div align="center">
 
-  <code>&TEAM</code>
-  <code>TWS</code>
-  <code>BOYNEXTDOOR</code>
-  <code>RIIZE</code>
+  <code>SEVENTEEN</code>
+
 
 </div>
 
@@ -141,7 +124,7 @@
       Um projeto desenvolvido no SENAI, unindo tecnologia, prática e aprendizado.
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/736x/d7/ad/1e/d7ad1ee8821ecf37904e684865d48087.jpg" width="120" alt="Projeto IOT"/>
+      <img src="https://i.pinimg.com/736x/fc/ab/40/fcab40060804d7eeb247a0f21a769e50.jpg" width="120" alt="Projeto IOT"/>
     </td>
   </tr>
 </table>
