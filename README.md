@@ -1,6 +1,6 @@
 <div align="center">
-
-  <img src="https://i.pinimg.com/736x/5c/dc/b4/5cdcb42d54c21c58d31acf56a72629b6.jpg" width="320" alt="Profile aesthetic image"/>
+  <img src="https://i.pinimg.com/736x/f5/3f/16/f53f16eb76a12853682602c0b6e95594.jpg
+" width="320" alt="Profile aesthetic image"/>
 
   <br><br>
 
@@ -17,7 +17,7 @@
 
   <br><br>
 
-  <img src="https://i.pinimg.com/736x/da/c8/43/dac8433656ac1d8cdf12990ffb4f1a64.jpg" width="500" alt="Aesthetic Header"/>
+  <img src="https://i.pinimg.com/736x/5c/dc/b4/5cdcb42d54c21c58d31acf56a72629b6.jp" width="500" alt="Aesthetic Header"/>
 
   <br><br>
 
