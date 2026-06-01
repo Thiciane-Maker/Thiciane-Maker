@@ -1,133 +1,175 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/f5/3f/16/f53f16eb76a12853682602c0b6e95594.jpg" width="320"/>
+<img src="https://i.pinimg.com/736x/f5/3f/16/f53f16eb76a12853682602c0b6e95594.jpg" width="200" style="border-radius: 50%; border: 4px solid #ffc1da; box-shadow: 0 0 40px #ff9ecf;"/>
 
-  <br><br>
+<h1 style="letter-spacing:6px;">𝓣𝓱𝓲𝓬𝓲𝓪𝓷𝓮 ♡</h1>
 
-  <h1>🌸 𝓣𝓱𝓲𝓬𝓲𝓪𝓷𝓮 ♡</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=20&duration=2500&color=ff9ecf&center=true&vCenter=true&width=650&lines=frontend+developer+in+progress;soft+aesthetic+interface+creator;carat+%E2%99%A1+seventeen+world"/>
 
-  <p>
-    <strong>💻 Estudante de Desenvolvimento de Sistemas</strong><br>
-    🎓 SESI-025 • SENAI • ela/dela
-  </p>
+<br><br>
 
-  <img src="https://img.shields.io/badge/status-online-ff9ecf?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/idade-17%20anos-ffc1da?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/carat-ffd6e7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-online-ff9ecf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/frontend-dev-ffc1da?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/age-17-ffd6e7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/carat-ffb3d1?style=for-the-badge"/>
 
-  <br><br>
+<br><br>
 
-  <img src="https://i.pinimg.com/736x/5c/dc/b4/5cdcb42d54c21c58d31acf56a72629b6.jpg" width="520"/>
-
-  <br><br>
-
-  <em>✨ welcome to my seventeen world ✨</em>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffc1da&height=4"/>
 
 </div>
-
-<br>
 
 ---
 
-## ✨ Sobre mim
-
-<table align="center">
-  <tr>
-    <td width="160" align="center">
-      <img src="https://i.pinimg.com/736x/be/e0/18/bee0181db37cad05cc816c37a84f8038.jpg" width="180"/>
-    </td>
-    <td width="520">
-      Oii! 💗 Me chamo <strong>Thiciane</strong> e tenho <strong>17 anos</strong> ✨<br><br>
-      Estudo no <strong>SESI-025</strong> e faço <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong> 🎓<br><br>
-      Amo tecnologia e estou aprendendo <strong>HTML, CSS e JavaScript</strong>, criando projetos no <strong>VS Code</strong> 💻<br><br>
-      E claro… sou <strong>Carat 💎</strong> e vivo ouvindo <strong>SEVENTEEN</strong> 🎧✨
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🎧 SEVENTEEN
+## ❀ system.interface
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/SEVENTEEN-ff9ecf?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CARAT-ffc1da?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K--Pop-ffd6e7?style=for-the-badge"/>
+<pre>
+╭──────────────────────────────────────────────╮
+│  ◉ ○ ○  Thiciane.exe                         │
+├──────────────────────────────────────────────┤
+│  [ profile ] [ seventeen ] [ skills ]        │
+╰──────────────────────────────────────────────╯
+</pre>
 
-  <br><br>
-
-  <em>💿 vocals • performance • rap • visuals • family vibes ✨</em>
-
-</div>
+<table width="850"> 
+<tr> 
+<td width="300" align="center">
+<br>
+<img src="https://i.pinimg.com/736x/da/1a/ca/da1aca59eccd0bceae5d38406d009a4b.jpg" width="240" style="border-radius:25px; box-shadow: 0 0 25px #ffc1da;"/>
+<br><br>
+<img src="https://img.shields.io/badge/SESI-025-ffc1da?style=flat-square"/> 
+<img src="https://img.shields.io/badge/SENAI-ff9ecf?style=flat-square"/> 
+</td> 
+<td align="left">
+<pre>
+╭────────────── profile.data ───────────────╮
+│ name      :: Thiciane                     │
+│ age       :: 17                           │
+│ role      :: frontend.dev                 │
+│ stack     :: HTML • CSS • JavaScript      │
+│ editor    :: VS Code                      │
+│ aesthetic :: soft pink                    │
+│ fandom    :: CARAT ♡                      │
+╰───────────────────────────────────────────╯
+╭────────────── personality ───────────────╮
+│ ✦ creative mind                           │
+│ ✦ loves beautiful interfaces              │
+│ ✦ learning everyday                       │
+│ ✦ music driven inspiration                │
+╰───────────────────────────────────────────╯
+</pre>
+</td> 
+</tr> 
+</table> 
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://i.pinimg.com/webp85/1200x/30/2a/a6/302aa6cab6d83c7bf88d2eeda1374b26.webp" width="140"/><br><br>
-      <strong>SEVENTEEN 💎</strong><br>
-      <sub>my comfort group ✨</sub>
-    </td>
-  </tr>
-</table>
+### ✦ seventeen.tab
+
+<img src="https://img.shields.io/badge/SEVENTEEN-ff9ecf?style=for-the-badge"/> <img src="https://img.shields.io/badge/self--producing-idols-ffc1da?style=for-the-badge"/>
+
+<br><br>
+
+<table width="850"> 
+<tr> 
+<td width="300" align="center">
+<img src="https://i.pinimg.com/webp85/1200x/30/2a/a6/302aa6cab6d83c7bf88d2eeda1374b26.webp" width="240" style="border-radius:20px; box-shadow: 0 0 25px #ff9ecf;"/>
+<br>
+<sub>ult group ✦ comfort ✦ inspiration</sub> 
+</td> 
+<td align="left">
+<pre>
+[ HIP-HOP UNIT ]
+S.COUPS • WONWOO • MINGYU • VERNON
+
+[ VOCAL UNIT ]
+WOOZI • JEONGHAN • JOSHUA • DK • SEUNGKWAN
+
+[ PERFORMANCE UNIT ]
+HOSHI • JUN • THE8 • DINO
+
+✦ music fuels creativity
+✦ emotional connection
+✦ daily inspiration source
+</pre>
+</td> 
+</tr> 
+</table> 
 
 <br>
 
-<div align="center">
+### ✦ skills.tab
 
-  <code>S.COUPS</code>
-  <code>JEONGHAN</code>
-  <code>JOSHUA</code>
-  <code>JUN</code>
-  <code>HOSHI</code>
-  <code>WONWOO</code>
-  <code>WOOZI</code>
-  <code>DK</code>
-  <code>MINGYU</code>
-  <code>THE8</code>
-  <code>SEUNGKWAN</code>
-  <code>VERNON</code>
-  <code>DINO</code>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,git"/>
 
-</div>
+<br><br>
+
+<pre>
+╭──────────── skill.level ────────────╮
+HTML        ████████████░░ 85%
+CSS         ███████████░░░ 80%
+JavaScript  ███████░░░░░░ 55%
+╰─────────────────────────────────────╯
+</pre>
+<br>
+<pre>
+╭──────────── dev.focus ──────────────╮
+✦ UI Design
+✦ Responsive Layouts
+✦ Animations
+✦ Clean Code
+╰─────────────────────────────────────╯
+</pre>
 
 <br>
 
-<div align="center">
-  <strong>ult group ✦ self-producing idols ✦ seventeen right here 💎✨</strong>
-</div>
+### ✦ terminal.mode
+
+<pre>
+$ initializing system...
+
+> loading profile...
+> loading aesthetic...
+> connecting to seventeen world...
+
+✔ system ready
+
+user@thiciane:~$ status
+→ learning frontend development
+→ creating beautiful interfaces
+→ listening to seventeen ♡
+
+user@thiciane:~$ future
+→ professional developer
+→ creative designer
+→ dream builder ✦
+
+user@thiciane:~$ _
+</pre>
 
 <br>
 
----
+### ✦ github.analytics
 
-## 💻 Skills & Ferramentas
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=rose_pine&title_color=ff9ecf&icon_color=ffc1da&text_color=ffffff&bg_color=0d1117"/> 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=rose_pine&title_color=ff9ecf"/>
 
-<div align="center">
+<br><br>
 
-  <img src="https://img.shields.io/badge/HTML5-ff8fab?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-ff6f91?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-9bf6ff?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=rose_pine&ring=ff9ecf&fire=ffc1da"/> 
 
-</div>
+<br><br>
 
-<br>
+### ✦ aesthetic.quote
 
-<div align="center">
-  <em>🌷 coding + seventeen = felicidade 💎✨</em>
-</div>
+<i>"soft pink code<br>
+music in the background<br>
+dreams turning into reality"</i>
 
-<br>
+<br><br>
 
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1da&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1da&height=160&section=footer"/> 
 
 </div>
