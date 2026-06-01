@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td width="160" align="center">
-      <img src="https://i.pinimg.com/736x/be/ba/94/beba94fb8372b49d725636bd7488652e.jpg" width="120"/>
+      <img src="https://i.pinimg.com/736x/be/e0/18/bee0181db37cad05cc816c37a84f8038.jpg" width="180"/>
     </td>
     <td width="520">
       Oii! 💗 Me chamo <strong>Thiciane</strong> e tenho <strong>17 anos</strong> ✨<br><br>
